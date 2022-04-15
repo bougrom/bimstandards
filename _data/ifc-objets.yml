@@ -572,7 +572,7 @@
   domaine_fluides: true
   requis_cobie: true
 
-- nom_fr_fr: Canalisation
+- nom_fr_fr: Gaine
   nom_en_gb: Formed Duct
   ifcproduct_ifc2x3tc1: IfcDistributionChamberElement
   ifcproduct_ifc4add2: 
